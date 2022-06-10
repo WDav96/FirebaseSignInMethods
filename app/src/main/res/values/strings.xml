@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Tutorial</string>
+    <string name="facebook_app_id">262047228847215</string>
+    <string name="fb_login_protocol_scheme">fb262047228847215</string>
+    <string name="facebook_client_token">01b9007eaf00707f553299723aaa775f</string>
+
+</resources>

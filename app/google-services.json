@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "435621326663",
+    "project_id": "fir-tutorial-1be29",
+    "storage_bucket": "fir-tutorial-1be29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435621326663:android:d3eaf55ee4b8b30db6e662",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435621326663-dods7cdp7d3h4a95dfi0p41n8sr8a0s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF4JifRNuFHqPf9B69Q-6ErZUNmMS3QLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435621326663-dods7cdp7d3h4a95dfi0p41n8sr8a0s1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435621326663-gcfndm9gvq66i20rf755ri7mv27eg8p2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desayscod.Login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
